@@ -8,3 +8,20 @@
 	-epub-hyphens: none;
 }
 /* end all epigraphs */
+
+/* poetry/song/verse */
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+/* end of poetry/song/verse */
