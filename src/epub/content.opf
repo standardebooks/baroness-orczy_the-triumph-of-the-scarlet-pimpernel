@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-01-17T02:19:42Z</dc:date>
+		<meta property="dcterms:modified">2021-01-17T02:19:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,15 +51,15 @@
 		<meta property="group-position" refines="#collection-1">9</meta>
 		<dc:description id="description">A woman is kidnapped in order to trap her husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;At one of Robespierre’s “Fraternal Suppers,” a young man denounces Robespierre and is kept from harm by an asthmatic vagabond. The young man flees to the home of his friend Theresia Cabarrus, who is engaged to one of the most important men in the government, and also desired by Robespierre himself. When the young man disappears from her home, allegedly at the hands of the Scarlet Pimpernel, the ever-present Chauvelin enlists her help in trying to capture the elusive Pimpernel. Events lead to the Pimpernel’s wife being kidnapped, and once again the Pimpernel has to use all of his wits to escape Chauvelin’s clutches with his life, and wife, intact.&lt;/p&gt;
+			&lt;p&gt;At one of Robespierre’s “Fraternal Suppers,” a young man denounces Robespierre but is saved by an asthmatic vagabond. The young man flees to the home of his friend Theresia Cabarrus, who is engaged to one of the most important men in the government, and who is also desired by Robespierre himself. When the young man disappears from her home, allegedly at the hands of the Scarlet Pimpernel, the ever-present Chauvelin enlists her help in trying to capture the elusive Pimpernel. Events lead to the Pimpernel’s wife being kidnapped, and once again the Pimpernel has to use all of his wits to escape Chauvelin’s clutches with his life, and wife, intact.&lt;/p&gt;
 			&lt;p&gt;As she has done throughout the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; weaves the Scarlet Pimpernel into the threads of the history of the Revolution. In this entry, it is the Pimpernel’s interactions with the leading players of the day that eventually leads to Robespierre’s downfall.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.net.au/ebooks06/0602601h.html</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Triumph_of_the_Scarlet_Pimpernel/JWeIDnx3LaAC</dc:source>
 		<meta property="se:production-notes">No US transcription was available, so a Project Gutenberg Australia transcription was used and compared to a US PD scan. The British “-ise” endings had to be restored to match the scan, and numerous other transcription errors corrected.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">91026</meta>
+		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Triumph_of_the_Scarlet_Pimpernel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-triumph-of-the-scarlet-pimpernel</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
@@ -88,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
