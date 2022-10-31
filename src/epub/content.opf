@@ -47,7 +47,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">9</meta>
+		<meta property="group-position" refines="#collection-1">14</meta>
 		<dc:description id="description">A woman is kidnapped in order to trap her husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;At one of Robespierre’s “Fraternal Suppers,” a young man denounces Robespierre but is saved by an asthmatic vagabond. The young man flees to the home of his friend Theresia Cabarrus, who is engaged to one of the most important men in the government, and who is also desired by Robespierre himself. When the young man disappears from her home, allegedly at the hands of the Scarlet Pimpernel, the ever-present Chauvelin enlists her help in trying to capture the elusive Pimpernel. Events lead to the Pimpernel’s wife being kidnapped, and once again the Pimpernel has to use all of his wits to escape Chauvelin’s clutches with his life, and wife, intact.&lt;/p&gt;
