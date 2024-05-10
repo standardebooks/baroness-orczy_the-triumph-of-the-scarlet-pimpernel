@@ -58,7 +58,7 @@
 		<dc:source>https://www.google.com/books/edition/The_Triumph_of_the_Scarlet_Pimpernel/JWeIDnx3LaAC</dc:source>
 		<meta property="se:production-notes">No US transcription was available, so a Project Gutenberg Australia transcription was used and compared to a US PD scan. The British “-ise” endings had to be restored to match the scan, and numerous other transcription errors corrected.</meta>
 		<meta property="se:word-count">91025</meta>
-		<meta property="se:reading-ease.flesch">71.04</meta>
+		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Triumph_of_the_Scarlet_Pimpernel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-triumph-of-the-scarlet-pimpernel</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
