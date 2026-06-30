@@ -1,0 +1,1 @@
+No US transcription was available, so a Project Gutenberg Australia transcription was used and compared to a US PD scan. The British “-ise” endings had to be restored to match the scan, and numerous other transcription errors corrected.
