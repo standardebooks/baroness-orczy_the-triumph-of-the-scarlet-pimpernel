@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel</dc:identifier>
 		<dc:date>2021-01-17T02:19:42Z</dc:date>
@@ -50,11 +50,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">14</meta>
-		<dc:description id="description">A woman is kidnapped in order to trap her husband.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A woman is kidnapped in order to trap her husband.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;At one of Robespierre’s “Fraternal Suppers,” a young man denounces Robespierre but is saved by an asthmatic vagabond. The young man flees to the home of his friend Theresia Cabarrus, who is engaged to one of the most important men in the government, and who is also desired by Robespierre himself. When the young man disappears from her home, allegedly at the hands of the Scarlet Pimpernel, the ever-present Chauvelin enlists her help in trying to capture the elusive Pimpernel. Events lead to the Pimpernel’s wife being kidnapped, and once again the Pimpernel has to use all of his wits to escape Chauvelin’s clutches with his life, and wife, intact.&lt;/p&gt;
 			&lt;p&gt;As she has done throughout the series, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; weaves the Scarlet Pimpernel into the threads of the history of the Revolution. In this entry, it is the Pimpernel’s interactions with the leading players of the day that eventually leads to Robespierre’s downfall.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks06/0602601h.html</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Triumph_of_the_Scarlet_Pimpernel/JWeIDnx3LaAC</dc:source>
